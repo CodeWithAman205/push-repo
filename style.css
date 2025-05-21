@@ -1,4 +1,21 @@
 h2{
     background-color: red;
-    border: 2px solid red;
+    border: 2px solid rgb(0, 255, 13);
+}
+p{
+    background-color: teal;
+    color: white;
+    padding: 10px;
+    border: 5px dotted violet;
+}
+
+button{
+    border: none;
+    padding: 10px 20px;
+    background-color: violet;
+    border-radius: 50px;
+    color: white;
+    box-shadow: 10px 20px 0px rgb(115, 255, 0),20px 40px 0px blue;
+}
+
 }
