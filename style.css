@@ -8,3 +8,12 @@ p{
     padding: 10px;
     border: 5px dotted violet;
 }
+
+button{
+    background-color: violet;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+    box-shadow: 5px 6px 10px teal;
+    cursor: pointer;
+}
